@@ -1,4 +1,5 @@
 Easy PDF Chat – Your AI-Powered PDF Assistant! 🚀
+
 Ever wanted to chat with your PDFs and get instant answers from your documents?
 With Chat with PDF, you can use a powerful RAG (Retrieval-Augmented Generation) system to query your PDFs using Deepseek, LangChain, and Streamlit.
 
